@@ -1,0 +1,7 @@
+print(5)
+print("hello World")
+print(False)
+print("India","Pakistan")
+print("India", 5, sep='-')
+print("hello",end=' ')
+print("World")
